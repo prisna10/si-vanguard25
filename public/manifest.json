@@ -1,0 +1,21 @@
+{
+  "name": "SI-Vanguard 25 UHW Perbanas",
+  "short_name": "SIVanguard25",
+  "start_url": "/index.php",
+  "display": "standalone",
+  "background_color": "#1e3a8a",
+  "theme_color": "#1e3a8a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192.png?text=SI25",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512.png?text=SI25",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
